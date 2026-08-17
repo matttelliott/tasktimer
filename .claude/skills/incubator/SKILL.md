@@ -10,8 +10,9 @@ description: develop an idea from brainstrom to production
   - it should continue interrogation until it is 99% confident it knows exactly what the user wants to build or until the user says to stop.
   - during interrogation, create/update docs/prds/ to capture user intent.
     - create as many docs as necessary.
+    - cull rejected/unused docs.
     - create not only .md but also diagrams, images, interactive html, etc.
-    - help the user visualize decisions
+    - help the user visualize decisions and workflows
   - continue interrogation until user approves proposal
 
 - prototype phase
